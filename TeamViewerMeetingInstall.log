@@ -1,0 +1,80 @@
+2023-09-04-18-40-00  ----------------------------------------------------------------------------------------------------
+2023-09-04-18-40-00  Installer:     TeamViewerMeeting
+2023-09-04-18-40-00  Version:       15.30.3
+2023-09-04-18-40-00  Install mode:  User
+2023-09-04-18-40-00  Account type:  Admin, UAC supported:1, Elevation:3
+2023-09-04-18-40-00  Time:          2023-09-04-18-40-00
+2023-09-04-18-40-00  OS-Version:    10.0.19045(64-bit) SP:0, Type:1
+2023-09-04-18-40-00  OS-Info:       Server:0 Home server:0
+2023-09-04-18-40-00  User-SID:      S-1-5-21-1024764343-1755334336-870168647-1001
+2023-09-04-18-40-00  Log level:     100 (default)
+2023-09-04-18-40-00  ----------------------------------------------------------------------------------------------------
+2023-09-04-18-40-00  
+2023-09-04-18-40-00  Create backup directory:<C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_BackupTemp>
+2023-09-04-18-40-00  InstallTeamViewerMeeting(): 64bit installer
+2023-09-04-18-40-00  TVSetInstallDir(): Set install directory to C:\Users\user\AppData\Roaming\TeamViewerMeeting
+2023-09-04-18-40-00  InstallTeamViewerMeeting(): TvGetVersion::IsMsiInstallation(C:\Users\user\AppData\Roaming\Blizz, {1d4469de-ac2e-46bb-a08a-d6d23f6d402c}) returned '0'
+2023-09-04-18-40-00  InstallTeamViewerMeeting(): TvGetVersion::IsMsiInstallation(C:\Users\user\AppData\Roaming\TeamViewerMeeting, {C84D1319-132E-4A92-827D-3AE8958DB6D5}) returned '0'
+2023-09-04-18-40-00  ExtractFiles(): Extract all pack files...
+2023-09-04-18-40-03  ExtractFiles(): All files successful extracted.
+2023-09-04-18-40-03  InstallTeamViewerMeeting(): Check settings...
+2023-09-04-18-40-03  InstallTeamViewerMeeting(): Link TVS files: 1
+2023-09-04-18-40-03  TVCreateShortCut(): C:\Users\user\Desktop\TeamViewer Meeting.lnk, C:\Users\user\AppData\Roaming\TeamViewerMeeting, TeamViewerMeeting.exe
+2023-09-04-18-40-03  TVCreateShortCut(): C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TeamViewer Meeting.lnk, C:\Users\user\AppData\Roaming\TeamViewerMeeting, TeamViewerMeeting.exe
+2023-09-04-18-40-03  ApplySystemChanges(): Apply system changes...
+
+2023-09-04-18-40-03  WriteFileChanges(): Compute all file actions...
+2023-09-04-18-40-03  WriteFileChanges(MKDIR): Create directory C:\Users\user\AppData\Roaming\TeamViewerMeeting\outlook
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting.exe to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting.exe.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Desktop.exe to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Desktop.exe.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\WriteDump.exe to C:\Users\user\AppData\Roaming\TeamViewerMeeting\WriteDump.exe.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_StaticRes.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_StaticRes.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\uninstall.exe to C:\Users\user\AppData\Roaming\TeamViewerMeeting\uninstall.exe.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\tv_w32.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\tv_w32.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\tv_w32.exe to C:\Users\user\AppData\Roaming\TeamViewerMeeting\tv_w32.exe.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\tv_x64.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\tv_x64.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\tv_x64.exe to C:\Users\user\AppData\Roaming\TeamViewerMeeting\tv_x64.exe.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_CopyRights_EN.txt to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_CopyRights_EN.txt.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\eula-de.html to C:\Users\user\AppData\Roaming\TeamViewerMeeting\eula-de.html.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\eula-en.html to C:\Users\user\AppData\Roaming\TeamViewerMeeting\eula-en.html.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\dpa-en-TVM.html to C:\Users\user\AppData\Roaming\TeamViewerMeeting\dpa-en-TVM.html.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\dpa-de-TVM.html to C:\Users\user\AppData\Roaming\TeamViewerMeeting\dpa-de-TVM.html.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\outlook\TeamViewerMeetingOutlookAddIn.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\outlook\TeamViewerMeetingOutlookAddIn.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\outlook\ManagedAggregator.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\outlook\ManagedAggregator.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\outlook\TeamViewerMeetingOutlookAddInShim32.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\outlook\TeamViewerMeetingOutlookAddInShim32.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\outlook\TeamViewerMeetingOutlookAddInShim64.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\outlook\TeamViewerMeetingOutlookAddInShim64.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_en.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_en.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_de.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_de.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_fr.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_fr.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_it.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_it.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_pt.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_pt.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_sv.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_sv.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_es.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_es.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_da.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_da.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_nl.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_nl.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_tr.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_tr.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_fi.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_fi.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_no.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_no.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_pl.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_pl.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_ja.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_ja.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_ko.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_ko.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_uk.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_uk.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_id.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_id.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_th.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_th.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp\TeamViewerMeeting_Resource_vi.dll to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_Resource_vi.dll.
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\dpa-en-TVM.html to C:\Users\user\AppData\Roaming\TeamViewerMeeting\dpa-en.html.
+2023-09-04-18-40-03  WriteFileChanges(DELETE): Delete file C:\Users\user\AppData\Roaming\TeamViewerMeeting\dpa-de-TVM.html
+2023-09-04-18-40-03  WriteFileChanges(DELETE): Delete file C:\Users\user\AppData\Roaming\TeamViewerMeeting\eula-de.html
+2023-09-04-18-40-03  WriteFileChanges(RENAME): Move C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_CopyRights_EN.txt to C:\Users\user\AppData\Roaming\TeamViewerMeeting\CopyRights.txt.
+2023-09-04-18-40-03  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\user\Desktop\TeamViewer Meeting.lnk to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting.exe
+2023-09-04-18-40-03  WriteFileChanges(SHORTCUT): Create shortcut C:\Users\user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\TeamViewer Meeting.lnk to C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting.exe
+2023-09-04-18-40-03  
+2023-09-04-18-40-03  WriteRegChanges(): Compute all registry actions...
+2023-09-04-18-40-03  WriteRegChanges(WRITE_STRING): Write registry value HKEY_CURRENT_USER\SOFTWARE\TeamViewerMeeting\MachineFallback\InstalledAppBitness=x64
+2023-09-04-18-40-03  
+2023-09-04-18-40-03  CleanUp(): Clean up...
+2023-09-04-18-40-03  CleanUp(): Backup key successful removed.
+2023-09-04-18-40-03  CleanUp(): Backup directory C:\Users\user\AppData\Roaming\TeamViewerMeeting\TeamViewerMeeting_BackupTemp successful removed.
+2023-09-04-18-40-03  CleanUp(): Extract directory C:\Users\user\AppData\Roaming\TeamViewerMeeting\TVExtractTemp successful removed.
+2023-09-04-18-40-03  
+2023-09-04-18-40-03  RunTeamViewerMeeting(): Start TeamViewerMeeting.exe
